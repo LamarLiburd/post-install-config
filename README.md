@@ -14,16 +14,18 @@ This lab demonstrates the necessary changes I made to configure osTicket so it c
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (21H2)
+- 
 
 
 <h2>Configuration Steps</h2>
 
+Now that osTicket is installed, it’s time to set it up as a Ticketing System. You'll need to switch between the Admin and Agent panels, as each has different settings. To know which panel you're in, check the top right of the osTicket screen if it says "Agent Panel", you're in the Admin Panel, and vice versa.
 <p>
 <img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
+
 
 The first step to take is to make a new role called Supreme Admin. For the purposes of this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, open the Admin panel enter the Agents Menu. Click on Roles and create the new role from there.
 </p>
