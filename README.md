@@ -3,18 +3,19 @@
 </p>
 
 <h1>osTicket - Post-Install Configurations</h1>
-This lab demonstrates the necessary changes I made to configure osTicket so it can be used as a proper ticketing system.<br />
+
+After installing osTicket, the next step is setting it up for smooth ticket management. This includes configuring user roles, email settings, ticket filters, and workflow automation. Setting everything up correctly ensures an efficient and organized support system.
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
 - Remote Desktop Connection
 - osTicket 
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro</b> (21H2)
-- 
+  
 
 
 <h2>Configuration Steps</h2>
