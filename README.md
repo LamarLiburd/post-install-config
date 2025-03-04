@@ -22,7 +22,7 @@ After installing osTicket, the next step is setting it up for smooth ticket mana
 
 Now that osTicket is installed, it’s time to set it up as a Ticketing System. You'll need to switch between the Admin and Agent panels, as each has different settings. To know which panel you're in, check the top right of the osTicket screen if it says "Agent Panel", you're in the Admin Panel, and vice versa.
 <p>
-<![img alt](https://github.com/LamarLiburd/post-install-config/blob/5361ea908d927990de64385cb3621704fb20d1fe/Captura%20de%20pantalla%202025-03-04%20002718.png)>
+<img src="https://i.imgur.com/qWp91Fk.png" height="80%" width="80%" alt="configuration steps"/>
 <img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
